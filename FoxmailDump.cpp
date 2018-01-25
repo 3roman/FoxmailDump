@@ -185,7 +185,7 @@ void showHelp()
 	cout << "  -p <path>\tAutomatic search account files in specific path\n";
 	cout << "  -o <file>\tOutput results to the given filename\n";
 	cout << "  -h\t\tThis cruft\n";
-	cout << "\nExamples:\n";
+	cout << "\n\nExamples:\n";
 	cout << "  FoxmailDump.exe -f Account.cfg\n";
 	cout << "  FoxmailDump.exe -p \"D:\\Foxmail 7.2\" -o pass.txt\n";
 
